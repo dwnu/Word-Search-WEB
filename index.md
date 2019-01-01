@@ -1,7 +1,7 @@
 # Classic Word Search
 ## Best classic puzzle game 
 
-<b>iOS: Soon/b>
+<b>iOS: Soon</b>
 <br><b>Android: [google play](https://play.google.com/store/apps/details?id=vuko.game.word.search.hidden.words.release)</b>
 
 <br>
